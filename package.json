@@ -1,7 +1,6 @@
 {
   "name": "gulp-starter",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "gulp",
@@ -54,5 +53,14 @@
     "sass": "^1.54.0",
     "webpack": "^5.74.0",
     "webpack-stream": "^7.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikolay-Vladimirovich/gulp-common-short.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nikolay-Vladimirovich/gulp-common-short/issues"
+  },
+  "homepage": "https://github.com/Nikolay-Vladimirovich/gulp-common-short#readme",
+  "description": ""
 }
